@@ -1,0 +1,14 @@
+.featurette-heading{
+    text-align: left;
+    font-size: 50px;
+}
+.lead{
+    text-align: left;
+}
+.text{
+    margin-top: 40px;
+}
+.featurette{
+    text-align: center;
+    padding: 70px;
+}
